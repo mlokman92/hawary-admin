@@ -56,7 +56,7 @@ export default function Dashboard() {
     <div className="page">
       <div className="page-header">
         <div>
-          <h1>Good morning, Nurul 👋</h1>
+          <h1>Good morning, Linda 👋</h1>
           <p>Here's what's happening at Tadika Hawary today, Monday, 25 May 2026.</p>
         </div>
         <div className="filter-group">
